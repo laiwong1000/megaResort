@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CottagesModelStoreContainer" CdmEntityContainer="CottagesEntities">
+    <EntitySetMapping Name="Beds">
+      <EntityTypeMapping TypeName="CottagesModel.Bed">
+        <MappingFragment StoreEntitySet="Beds">
+          <ScalarProperty Name="BedType" ColumnName="BedType" />
+          <ScalarProperty Name="BedCode" ColumnName="BedCode" />
+          <ScalarProperty Name="WeekendRate" ColumnName="WeekendRate" />
+          <ScalarProperty Name="WeekdayRate" ColumnName="WeekdayRate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Guests">
+      <EntityTypeMapping TypeName="CottagesModel.Guest">
+        <MappingFragment StoreEntitySet="Guests">
+          <ScalarProperty Name="Last_Name" ColumnName="Last Name" />
+          <ScalarProperty Name="First_Name" ColumnName="First Name" />
+          <ScalarProperty Name="Street" ColumnName="Street" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="Zip" ColumnName="Zip" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="Last_Visit_Date" ColumnName="Last Visit Date" />
+          <ScalarProperty Name="Room" ColumnName="Room" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reservations">
+      <EntityTypeMapping TypeName="CottagesModel.Reservation">
+        <MappingFragment StoreEntitySet="Reservations">
+          <ScalarProperty Name="Guest" ColumnName="Guest" />
+          <ScalarProperty Name="Room" ColumnName="Room" />
+          <ScalarProperty Name="Arrival" ColumnName="Arrival" />
+          <ScalarProperty Name="Departure" ColumnName="Departure" />
+          <ScalarProperty Name="CreditCardNumber" ColumnName="CreditCardNumber" />
+          <ScalarProperty Name="Card" ColumnName="Card" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rooms">
+      <EntityTypeMapping TypeName="CottagesModel.Room">
+        <MappingFragment StoreEntitySet="Rooms">
+          <ScalarProperty Name="Room1" ColumnName="Room" />
+          <ScalarProperty Name="BedCode" ColumnName="BedCode" />
+          <ScalarProperty Name="Jacuzzi" ColumnName="Jacuzzi" />
+          <ScalarProperty Name="Private_Access" ColumnName="Private Access" />
+          <ScalarProperty Name="Fireplace" ColumnName="Fireplace" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="States">
+      <EntityTypeMapping TypeName="CottagesModel.State">
+        <MappingFragment StoreEntitySet="States">
+          <ScalarProperty Name="StateCode" ColumnName="StateCode" />
+          <ScalarProperty Name="StateName" ColumnName="StateName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

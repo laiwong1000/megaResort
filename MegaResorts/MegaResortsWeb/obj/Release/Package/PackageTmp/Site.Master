@@ -1,0 +1,62 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site.master.vb" Inherits="MegaResortsWeb.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Mega Resorts - <%: Page.Title %></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Content/Bootstrap.css" rel="stylesheet" />
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="top">
+            <p>Mega Resorts</p>
+           
+            <p  id="signinStyle">
+                      <asp:HyperLink ID="registerHyperLink" CssClass="linkStyle" runat="server" NavigateUrl="~/Accounts/Register.aspx">Register</asp:HyperLink>
+                      &nbsp; &nbsp; &nbsp;
+                     <asp:HyperLink ID="LoginHyperLink" CssClass="linkStyle" runat="server" NavigateUrl="~/Accounts/login.aspx">Login</asp:HyperLink>
+                     <asp:Label ID="LoginLabel" runat="server"></asp:Label>
+                     <asp:Button ID="signOutButton" runat="server" Text="Sign Out" CausesValidation="False" />
+           
+            </p> 
+        </div>
+        <div id="mid">
+            <div id="midLeft">
+                <br />
+                <br />
+                <br />
+                <ul>
+                    <li><asp:HyperLink ID="HomeHyperLink" runat="server" NavigateUrl="~/Default.aspx">Home</asp:HyperLink></li>
+                </ul>
+                 <ul>
+                    <li><asp:HyperLink ID="RewardsMemberHyperLink" runat="server" NavigateUrl="~/Protected/RewardsMember.aspx">Rewards Member</asp:HyperLink></li>
+                </ul>
+                <ul>
+                    <li><asp:HyperLink ID="ReservationHyperLink" runat="server" NavigateUrl="~/Reservations.aspx">Reservation</asp:HyperLink></li>
+                </ul>
+                <ul>
+                    <li><asp:HyperLink ID="RoomRateHyperLink" runat="server" NavigateUrl="~/RoomRate.aspx">Room Rate</asp:HyperLink></li>
+                </ul>
+                <ul>
+                    <li><asp:HyperLink ID="ContactUsHyperLink" runat="server" NavigateUrl="~/ContactUs.aspx">Contact Us</asp:HyperLink></li>
+                </ul>
+            </div>
+            <div id="midCenter">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div id="midRight">
+
+            </div>
+        </div>
+        <div id="bottom">
+            <hr style="height:7px;color:gray">
+            <p>&copy; <%: DateTime.Now.Year %>- Mega Resorts</p>
+        </div>
+    </form>
+</body>
+</html>

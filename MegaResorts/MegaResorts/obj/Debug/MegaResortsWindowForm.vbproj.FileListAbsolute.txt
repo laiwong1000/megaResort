@@ -1,0 +1,207 @@
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\Cottages.mdf
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\Cottages_log.ldf
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\EntityFramework.dll
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.pdb
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll.config
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\EntityFramework.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbprojAssemblyReference.cache
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResorts.About.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResorts.GuestsUI.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResorts.mainForm.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResorts.Resources.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResorts.ReservationsUI.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResorts.RoomsUI.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResorts.SplashScreen.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.GenerateResource.cache
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CoreCompileInputs.cache
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CopyComplete
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\Part5&6\MegaResorts\MegaResorts\obj\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\Cottages.mdf
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\Cottages_log.ldf
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\EntityFramework.dll
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.pdb
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll.config
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\EntityFramework.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbprojAssemblyReference.cache
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResorts.About.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResorts.GuestsUI.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResorts.mainForm.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResorts.Resources.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResorts.ReservationsUI.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResorts.RoomsUI.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResorts.SplashScreen.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.GenerateResource.cache
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CoreCompileInputs.cache
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CopyComplete
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\01roomsDone\MegaResorts\MegaResorts\obj\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\Cottages.mdf
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\Cottages_log.ldf
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\EntityFramework.dll
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.pdb
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll.config
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\EntityFramework.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbprojAssemblyReference.cache
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResorts.About.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResorts.GuestsUI.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResorts.mainForm.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResorts.Resources.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResorts.ReservationsUI.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResorts.RoomsUI.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResorts.SplashScreen.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.GenerateResource.cache
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CoreCompileInputs.cache
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CopyComplete
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\backup\7 final\MegaResorts\MegaResorts\obj\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\Cottages.mdf
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\Cottages_log.ldf
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\EntityFramework.dll
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.pdb
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll.config
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\EntityFramework.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbprojAssemblyReference.cache
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResorts.About.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResorts.GuestsUI.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResorts.mainForm.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResorts.Resources.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResorts.ReservationsUI.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResorts.RoomsUI.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResorts.SplashScreen.resources
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.GenerateResource.cache
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CoreCompileInputs.cache
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CopyComplete
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\vb4Proj\Handin\part9&10\MegaResorts\MegaResorts\obj\Debug\MegaResorts.ReservationPrintUI.resources
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\Cottages.mdf
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\Cottages_log.ldf
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\EntityFramework.dll
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.pdb
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.xml
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll.config
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\EntityFramework.xml
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbprojAssemblyReference.cache
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResorts.About.resources
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResorts.GuestsUI.resources
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResorts.mainForm.resources
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResorts.Resources.resources
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResorts.ReservationPrintUI.resources
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResorts.ReservationsUI.resources
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResorts.RoomsUI.resources
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResorts.SplashScreen.resources
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.GenerateResource.cache
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CoreCompileInputs.cache
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CopyComplete
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\megaResort\working\MegaResorts\MegaResorts\obj\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\Cottages.mdf
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\Cottages_log.ldf
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\EntityFramework.dll
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.pdb
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll.config
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\EntityFramework.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbprojAssemblyReference.cache
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResorts.About.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResorts.GuestsUI.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResorts.mainForm.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResorts.Resources.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResorts.ReservationPrintUI.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResorts.ReservationsUI.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResorts.RoomsUI.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResorts.SplashScreen.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.GenerateResource.cache
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CoreCompileInputs.cache
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CopyComplete
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\obj\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\Cottages.mdf
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\Cottages_log.ldf
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\MegaResorts.pdb
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\EntityFramework.dll
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.pdb
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\CottageDBDAL.dll.config
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\EntityFramework.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbprojAssemblyReference.cache
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe.config
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResorts.About.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResorts.GuestsUI.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResorts.mainForm.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResorts.Resources.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResorts.ReservationPrintUI.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResorts.ReservationsUI.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResorts.RoomsUI.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResorts.SplashScreen.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.GenerateResource.cache
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CoreCompileInputs.cache
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResortsWindowForm.vbproj.CopyComplete
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResorts.exe
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResorts.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResorts\MegaResorts\obj\Debug\MegaResorts.pdb

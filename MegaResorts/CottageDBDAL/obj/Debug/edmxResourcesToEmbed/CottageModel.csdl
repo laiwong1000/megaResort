@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CottagesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Bed">
+    <Key>
+      <PropertyRef Name="BedType" />
+    </Key>
+    <Property Name="BedType" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="BedCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="WeekendRate" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="WeekdayRate" Type="Decimal" Precision="19" Scale="4" />
+  </EntityType>
+  <EntityType Name="Guest">
+    <Key>
+      <PropertyRef Name="Phone" />
+    </Key>
+    <Property Name="Last_Name" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="First_Name" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Name="Street" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="City" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Name="State" Type="String" MaxLength="2" FixedLength="false" Unicode="true" />
+    <Property Name="Zip" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Phone" Type="String" MaxLength="12" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Last_Visit_Date" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Room" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Reservation">
+    <Key>
+      <PropertyRef Name="Guest" />
+      <PropertyRef Name="Arrival" />
+    </Key>
+    <Property Name="Guest" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Room" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Arrival" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Departure" Type="DateTime" Precision="3" />
+    <Property Name="CreditCardNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Card" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Room">
+    <Key>
+      <PropertyRef Name="Room1" />
+    </Key>
+    <Property Name="Room1" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="BedCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Jacuzzi" Type="Boolean" Nullable="false" />
+    <Property Name="Private_Access" Type="Boolean" Nullable="false" />
+    <Property Name="Fireplace" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="State">
+    <Key>
+      <PropertyRef Name="StateCode" />
+    </Key>
+    <Property Name="StateCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="StateName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="CottagesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Beds" EntityType="Self.Bed" />
+    <EntitySet Name="Guests" EntityType="Self.Guest" />
+    <EntitySet Name="Reservations" EntityType="Self.Reservation" />
+    <EntitySet Name="Rooms" EntityType="Self.Room" />
+    <EntitySet Name="States" EntityType="Self.State" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,734 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MegaResortsWeb
+</name>
+</assembly>
+<members>
+<member name="T:MegaResortsWeb.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:MegaResortsWeb.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:MegaResortsWeb.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:MegaResortsWeb.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:MegaResortsWeb.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:MegaResortsWeb.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:MegaResortsWeb._Default2._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Login._errorLoginLabel">
+<summary>
+errorLoginLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Login._userNameLabel">
+<summary>
+userNameLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Login._userNameTextBox">
+<summary>
+userNameTextBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Login._userNameRequiredFieldValidator">
+<summary>
+userNameRequiredFieldValidator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Login._passLabel">
+<summary>
+passLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Login._passwordTextBox">
+<summary>
+passwordTextBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Login._passwdRequiredFieldValidator">
+<summary>
+passwdRequiredFieldValidator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Login._remeberMeCheckBox">
+<summary>
+remeberMeCheckBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Login._loginButton">
+<summary>
+loginButton control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Login._regiesterHyperLink">
+<summary>
+regiesterHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._userNameLabel">
+<summary>
+userNameLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._userNameTextBox">
+<summary>
+userNameTextBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._userNameRequiredFieldValidator">
+<summary>
+userNameRequiredFieldValidator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._PK_ViolationLabel">
+<summary>
+PK_ViolationLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._passwdLabel">
+<summary>
+passwdLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._passwdTextBox">
+<summary>
+passwdTextBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._passwdRequiredFieldValidator">
+<summary>
+passwdRequiredFieldValidator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._confirmPasswdLabel">
+<summary>
+confirmPasswdLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._confirmPasswdTextBox">
+<summary>
+confirmPasswdTextBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._passwdNotMatchedLabel">
+<summary>
+passwdNotMatchedLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._emailLabel">
+<summary>
+emailLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._emailTextBox">
+<summary>
+emailTextBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._emailRequiredFieldValidator">
+<summary>
+emailRequiredFieldValidator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._emailRegularExpressionValidator">
+<summary>
+emailRegularExpressionValidator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._questLabel">
+<summary>
+questLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._questionDropDownList1">
+<summary>
+questionDropDownList1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._ansLabel">
+<summary>
+ansLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._ansTextBox">
+<summary>
+ansTextBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._ansRequiredFieldValidator">
+<summary>
+ansRequiredFieldValidator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Register._createButton">
+<summary>
+createButton control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.UserCreated._returnHyperLink">
+<summary>
+returnHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.ContactUs._feedbackHyperLink">
+<summary>
+feedbackHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Feedback._emailLabel">
+<summary>
+emailLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Feedback._emailTextBox">
+<summary>
+emailTextBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Feedback._emailRequiredFieldValidator">
+<summary>
+emailRequiredFieldValidator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Feedback._emailRegularExpressionValidator">
+<summary>
+emailRegularExpressionValidator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Feedback._yesNoLabel">
+<summary>
+yesNoLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Feedback._ansRadioButtonList">
+<summary>
+ansRadioButtonList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Feedback._commentLabel">
+<summary>
+commentLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Feedback._commentTextBox">
+<summary>
+commentTextBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Feedback._submitButton">
+<summary>
+submitButton control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb._Default1._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._GuestNameLabel">
+<summary>
+GuestNameLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._GuestNameTextBox">
+<summary>
+GuestNameTextBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._RequiredFieldValidator">
+<summary>
+RequiredFieldValidator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._dbErrorLabel">
+<summary>
+dbErrorLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._roomTypeLabel">
+<summary>
+roomTypeLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._roomTypeDropDownList">
+<summary>
+roomTypeDropDownList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._roomEntityDataSource">
+<summary>
+roomEntityDataSource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._arrivingLabel">
+<summary>
+arrivingLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._DepartureLabel">
+<summary>
+DepartureLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._arrivalCalendar">
+<summary>
+arrivalCalendar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._departureCalendar">
+<summary>
+departureCalendar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._arrivingErrorLabel">
+<summary>
+arrivingErrorLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._DepartureErrorLabel">
+<summary>
+DepartureErrorLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._creditCardTypeLabel">
+<summary>
+creditCardTypeLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._creditCardTypeDropDownList">
+<summary>
+creditCardTypeDropDownList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._reservationButton">
+<summary>
+reservationButton control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._creditCardLabel">
+<summary>
+creditCardLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._creditCardTextBox">
+<summary>
+creditCardTextBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Reservation._clearButton">
+<summary>
+clearButton control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.RoomRate1._bedGridView">
+<summary>
+bedGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.RoomRate1._bedEntityDataSource">
+<summary>
+bedEntityDataSource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.RoomRate1._errorLabel">
+<summary>
+errorLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Site._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Site._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Site._registerHyperLink">
+<summary>
+registerHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Site._LoginHyperLink">
+<summary>
+LoginHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Site._LoginLabel">
+<summary>
+LoginLabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Site._signOutButton">
+<summary>
+signOutButton control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Site._HomeHyperLink">
+<summary>
+HomeHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Site._RewardsMemberHyperLink">
+<summary>
+RewardsMemberHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Site._ReservationHyperLink">
+<summary>
+ReservationHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Site._RoomRateHyperLink">
+<summary>
+RoomRateHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Site._ContactUsHyperLink">
+<summary>
+ContactUsHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:MegaResortsWeb.Site._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

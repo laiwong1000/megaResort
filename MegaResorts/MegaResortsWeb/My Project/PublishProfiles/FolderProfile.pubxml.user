@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\MegaResortsWeb\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Accounts/Default.aspx">
+      <publishTime>01/30/2022 10:30:33</publishTime>
+    </File>
+    <File Include="Accounts/Login.aspx">
+      <publishTime>02/08/2022 04:08:09</publishTime>
+    </File>
+    <File Include="Accounts/Register.aspx">
+      <publishTime>01/30/2022 17:29:35</publishTime>
+    </File>
+    <File Include="Accounts/UserCreated.aspx">
+      <publishTime>01/30/2022 19:30:53</publishTime>
+    </File>
+    <File Include="App_Data/Cottages.mdf">
+      <publishTime>09/21/2022 20:33:11</publishTime>
+    </File>
+    <File Include="App_Data/Cottages_log.ldf">
+      <publishTime>09/21/2022 20:33:11</publishTime>
+    </File>
+    <File Include="App_Data/RewardsMembers.mdf">
+      <publishTime>02/08/2022 04:07:32</publishTime>
+    </File>
+    <File Include="App_Data/RewardsMembers_log.ldf">
+      <publishTime>02/08/2022 04:07:32</publishTime>
+    </File>
+    <File Include="bin/CottageDBDAL.dll">
+      <publishTime>09/21/2022 20:37:13</publishTime>
+    </File>
+    <File Include="bin/CottageDBDAL.dll.config">
+      <publishTime>01/23/2022 02:50:49</publishTime>
+    </File>
+    <File Include="bin/CottageDBDAL.pdb">
+      <publishTime>09/21/2022 20:37:13</publishTime>
+    </File>
+    <File Include="bin/Cottages.mdf">
+      <publishTime>01/30/2022 20:28:22</publishTime>
+    </File>
+    <File Include="bin/Cottages_log.ldf">
+      <publishTime>01/30/2022 20:28:22</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>06/07/2018 11:03:38</publishTime>
+    </File>
+    <File Include="bin/MegaResortsWeb.dll">
+      <publishTime>09/21/2022 20:37:13</publishTime>
+    </File>
+    <File Include="bin/MegaResortsWeb.pdb">
+      <publishTime>09/21/2022 20:37:13</publishTime>
+    </File>
+    <File Include="bin/MegaResortsWeb.xml">
+      <publishTime>09/21/2022 20:37:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="Confirmation.aspx">
+      <publishTime>02/08/2022 03:16:28</publishTime>
+    </File>
+    <File Include="ContactUs.aspx">
+      <publishTime>02/08/2022 03:16:28</publishTime>
+    </File>
+    <File Include="Content/Bootstrap.css">
+      <publishTime>02/08/2022 03:02:26</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/08/2022 03:05:21</publishTime>
+    </File>
+    <File Include="Feedback.aspx">
+      <publishTime>02/08/2022 03:16:28</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>01/28/2022 19:49:05</publishTime>
+    </File>
+    <File Include="images/broken.jpg">
+      <publishTime>01/30/2022 10:27:03</publishTime>
+    </File>
+    <File Include="images/cottage.jpg">
+      <publishTime>01/28/2022 19:51:48</publishTime>
+    </File>
+    <File Include="membersModel.edmx.diagram">
+      <publishTime>01/30/2022 11:50:27</publishTime>
+    </File>
+    <File Include="Protected/Default.aspx">
+      <publishTime>01/30/2022 10:29:11</publishTime>
+    </File>
+    <File Include="Protected/RewardsMember.aspx">
+      <publishTime>02/08/2022 03:16:29</publishTime>
+    </File>
+    <File Include="Reservations.aspx">
+      <publishTime>02/08/2022 03:16:28</publishTime>
+    </File>
+    <File Include="RoomRate.aspx">
+      <publishTime>02/08/2022 03:16:28</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>02/08/2022 02:59:18</publishTime>
+    </File>
+    <File Include="ThankYou.aspx">
+      <publishTime>02/08/2022 03:16:28</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/21/2022 20:37:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

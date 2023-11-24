@@ -1,0 +1,16 @@
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\bin\Release\Cottages.mdf
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\bin\Release\Cottages_log.ldf
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\bin\Release\CottageDBDAL.dll.config
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\bin\Release\CottageDBDAL.dll
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\bin\Release\CottageDBDAL.pdb
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\bin\Release\CottageDBDAL.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\bin\Release\EntityFramework.dll
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\bin\Release\EntityFramework.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\obj\Release\CottageDBDAL.vbprojAssemblyReference.cache
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\obj\Release\CottageDBDAL.Resources.resources
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\obj\Release\CottageDBDAL.vbproj.GenerateResource.cache
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\obj\Release\CottageDBDAL.vbproj.CoreCompileInputs.cache
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\obj\Release\CottageDBDAL.vbproj.CopyComplete
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\obj\Release\CottageDBDAL.dll
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\obj\Release\CottageDBDAL.xml
+C:\Users\kayue\Desktop\megaResort\LocalHostVer\MegaResorts\CottageDBDAL\obj\Release\CottageDBDAL.pdb
